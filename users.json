@@ -1,0 +1,17 @@
+[
+    {
+        "fName": "Warren",
+        "lName": "West",
+        "age": 32
+    },
+    {
+        "fName": "Clark",
+        "lName": "Kent",
+        "age": 29
+    },
+    {
+        "fName": "Peter",
+        "lName": "Parker",
+        "age": 22
+    }
+]
